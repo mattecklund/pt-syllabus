@@ -437,7 +437,7 @@
   - Students will understand how Directives fit into the Angular ecosystem
   - Students will be able to create a custom directive and use it in a view
 - Project:
-  - [Directives Workshop (If Mini Project Completed)](https://github.com/DevMountain/Directives-Workshop)
+  - [Angular Directive Project (If Mini Project Completed)](https://github.com/dckesler/Angular-Directive-Project)
 - Additional Reading:
   - [Directives](http://www.sitepoint.com/practical-guide-angularjs-directives/) 
 
@@ -448,7 +448,7 @@
   - Students will understand how Directives fit into the Angular ecosystem
   - Students will be able to create a custom directive and use it in a view
 - Project:
-  - [Directives Workshop](https://github.com/DevMountain/Directives-Workshop)
+  - [Angular Directive Project](https://github.com/dckesler/Angular-Directive-Project)
 
 #### <a name="day74"></a> Day 4 - APIs I
 - Pre-Reading:
